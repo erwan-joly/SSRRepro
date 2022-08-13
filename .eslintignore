@@ -1,0 +1,4 @@
+src/graphql/_generated.tsx
+dist/
+node_modules/
+public/
